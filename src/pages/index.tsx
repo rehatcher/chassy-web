@@ -143,6 +143,7 @@ const IndexPage = () => {
     <main style={pageStyles}>
       <title>Home Page</title>
       <h1>Hello World Gatsby</h1>
+      <p>Updated Stuff</p>
     </main>
   )
 }
