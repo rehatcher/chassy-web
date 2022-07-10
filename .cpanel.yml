@@ -1,4 +1,4 @@
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/cp726913/public_html/chassy.tech/
+    - export DEPLOYPATH=/home3/cp726913/public_html/chassy.tech/
     - /bin/cp -R public/* $DEPLOYPATH
